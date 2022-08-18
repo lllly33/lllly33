@@ -15,4 +15,4 @@
 |present|*对美好生活的愿景与自己专业技能不足之间的矛盾*|
 <br>
 
-`*ok,time to learn*`
+` ok,time to learn `
