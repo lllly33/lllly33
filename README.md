@@ -1,6 +1,4 @@
 # lllly33 
-## photo
-![me](https://s2.loli.net/2022/07/26/utEq4Ohi5GTw8eg.jpg)
 
 ---
 `just practise some markdown  here`
